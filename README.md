@@ -1,3 +1,3 @@
 # Tax-calculator
 
-Just a small school project 
+Just a small school project!
